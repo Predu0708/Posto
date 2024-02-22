@@ -1,4 +1,10 @@
 .ftr {
     padding: 5px;
-    border: 5px solid;
+    border: 
+    5px solid;
+}
+.volte_butao {
+    padding-left: 10px;
+    margin: auto;
+    background-color: salmon;
 }
